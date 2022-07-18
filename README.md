@@ -1,4 +1,4 @@
-<p align="left">Hi there, i am Gabriel Scopel</p>
+<h1 align="left">Hi there, i am Gabriel Scopel</h1>
 
 ###
 
