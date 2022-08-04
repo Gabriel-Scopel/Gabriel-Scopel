@@ -45,7 +45,7 @@
 </div>
 
 ###
- ![Snake animation](https://github.com/Gabriel-Scopel/Gabriel-Scopel/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ###
